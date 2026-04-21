@@ -1,2 +1,3 @@
-# portfolio-projects
-Repository for upcoming portfolio projects
+# Portfolio projects
+Showcase projects built with React, Node.js, TypeScript, PostgreSQL.
+*(coming soon)*
