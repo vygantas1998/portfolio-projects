@@ -1,3 +1,3 @@
-[submodule "finance-tracker"]
-	path = finance-tracker
-	url = https://github.com/vygantas1998/finance-tracker.git
+[submodule "repolens-ai"]
+	path = repolens-ai
+	url = https://github.com/vygantas1998/repolens-ai.git
